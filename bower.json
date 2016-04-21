@@ -1,0 +1,22 @@
+{
+  "name": "skeleton",
+  "description": "Css Html LTR+RTL Style Framework",
+  "main": "index.html",
+  "authors": [
+    "Ahmad Alahmadi <hi@ahmad.im>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "latest",
+    "components-font-awesome": "latest"
+  }
+}
